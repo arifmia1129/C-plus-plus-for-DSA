@@ -1,2 +1,2 @@
-My favorite number is: 10
-My favorite character is: B
+Output: 97 A
+ascii: a 65
