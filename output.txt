@@ -1,2 +1,1 @@
-Output: 97 A
-ascii: a 65
+20.12
