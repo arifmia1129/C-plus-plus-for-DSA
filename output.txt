@@ -1,1 +1,5 @@
-Assalamu Alaikum
+The size of above getting:  15
+The max size of above getting:  -17
+The capacity of above getting:  22
+It's empty
+The above getting:  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
