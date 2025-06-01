@@ -6,6 +6,12 @@
     "iostream": "cpp",
     "istream": "cpp",
     "typeindex": "cpp",
-    "typeinfo": "cpp"
+    "typeinfo": "cpp",
+    "map": "cpp",
+    "set": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp",
+    "initializer_list": "cpp",
+    "valarray": "cpp"
   }
 }

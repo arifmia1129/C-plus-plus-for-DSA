@@ -1,1 +1,5 @@
-Ariba
+YES
+NO
+YES
+NO
+NO
