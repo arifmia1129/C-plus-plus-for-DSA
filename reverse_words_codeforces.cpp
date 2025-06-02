@@ -9,13 +9,13 @@ int main () {
     stringstream ss(s);
     string word;
 
-    reverse(word.begin(), word.end());
+    ss >> word;
 
-        cout << word;
+    reverse(word.begin(), word.end());
+    cout << word;
 
     while(ss >> word) {
         reverse(word.begin(), word.end());
-
         cout << " " << word;
     }
 
