@@ -1,2 +1,3 @@
-Top: Ariba 103 99
-Last: Arif 101 89
+ Arif 101 89
+ Binu 102 90
+ Ariba 103 99
