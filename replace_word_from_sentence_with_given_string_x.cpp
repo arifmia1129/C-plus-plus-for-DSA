@@ -2,28 +2,27 @@
 using namespace std;
 
 int main () {
-    int tc;
+    string sen;
 
-    cin >> tc;
+    getline(cin, sen);
 
-    for(int i = 0; i < tc; i++) {
-        string sen, wrd;
+    int is_found = 0;
+    
+    stringstream ss(sen);
 
-        cin >> sen >> wrd;
+    string wrd;
 
-        int wrdLng = wrd.size();
-
-        
-        while (sen.find(wrd) != -1)
-        {
-            /* code */
-            int startIdx = sen.find(wrd);
-
-            sen.replace(startIdx, wrdLng, "X");
+ 
+    while(ss >> wrd) {
+        if(wrd == "Jessica") {
+            is_found = 1;
         }
-        
+    }
 
-        cout << sen << endl;
+    if(is_found) {
+        cout << "YES";
+    }else {
+        cout << "NO";
     }
 
     return 0;

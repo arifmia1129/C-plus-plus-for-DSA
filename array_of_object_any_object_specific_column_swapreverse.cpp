@@ -20,12 +20,12 @@ int main () {
     }
 
     for(int i = 0, j = n - 1; i < j; i++, j--) {
-        swap(ar[i].marks,ar[j].marks);
+        swap(ar[i].section,ar[j].section);
         
     }
 
      for(int i = 0; i < n; i++) {
-        cout << " " << ar[i].name << " " << ar[i].id << " " << ar[i].section << " " << ar[i].marks << endl;
+        cout <<  ar[i].name << " " << ar[i].id << " " << ar[i].section << " " << ar[i].marks << endl;
     }
 
     
